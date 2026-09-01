@@ -1,0 +1,21 @@
+{
+  "name": "canivetesuiconode",
+  "version": "1.0.0",
+  "description": "Um conjunto de ferramentas simples e úteis para desenvolvedores, reunidas em um só lugar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lu-nas/canivetesuiconode.git"
+  },
+  "keywords": [],
+  "author": "Luana",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Lu-nas/canivetesuiconode/issues"
+  },
+  "homepage": "https://github.com/Lu-nas/canivetesuiconode#readme"
+}
