@@ -1,4 +1,4 @@
-# Canivete Suíço
+# Canivete Suíço  🛠️
 
 Um conjunto de ferramentas simples e úteis para desenvolvedores, reunidas em um só lugar.
 
